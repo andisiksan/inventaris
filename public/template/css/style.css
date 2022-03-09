@@ -1,0 +1,21 @@
+.bg_conten {
+  background-image: url(/img/kominfofix.jpg);
+  background-size: cover;
+  height: 110vh;
+  /* filter: brightness(50%); */
+}
+
+#content {
+  background-color: #4e73df;
+}
+
+.user .card {
+  /* background-color: rgba(245, 245, 245, 0.4); */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.kategori .card {
+  margin-left: auto;
+  margin-right: auto;
+}
